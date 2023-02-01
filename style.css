@@ -36,6 +36,7 @@ a {
 img {
   width: 100%;
   height: auto;
+  max-width: 300px; /* set a maximum width */
   margin-bottom: 20px;
 /*   filter: grayscale(100%); */
   filter: sepia(100%);  
