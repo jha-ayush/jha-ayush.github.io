@@ -1,2 +1,1 @@
-# jha-ayush.github.io
-Highlighting projects with UI
+# Project(s) overview with UI
