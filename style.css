@@ -15,11 +15,11 @@ li {
 a {
   display: block;
   text-decoration: none;
-  color: black;
+  color: #1E1E1E;
 }
 
 .card {
-  background-color: white;
+  background-color: #FAFAFA;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   overflow: hidden;
