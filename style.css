@@ -1,49 +1,57 @@
+/* Remove default styles for the unordered list */
 ul {
   list-style: none;
   padding: 0;
   margin: 0 auto;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-wrap: wrap; /* Wrap the list items to a new line when there's not enough space on the current line */
+  justify-content: center; /* Center the list items horizontally */
 }
 
+/* Specify the width and margin for each list item */
 li {
   width: 30%;
   margin: 10px;
 }
 
+/* Remove the underline and change the color for the link */
 a {
   display: block;
   text-decoration: none;
   color: #1E1E1E;
 }
 
+/* Add styles for the project card */
 .card {
   background-color: #FAFAFA;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  overflow: hidden;
-  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow to the card */
+  border-radius: 10px; /* Round the corners of the card */
+  overflow: hidden; /* Clip content that overflows the card */
+  text-align: center; /* Center the text content vertically and horizontally */
   padding: 20px;
 }
 
+/* Make the image fill the width of the card */
 img {
   width: 100%;
   height: auto;
   margin-bottom: 20px;
 }
 
+/* Add a margin to the heading */
 h2 {
   margin: 10px 0 0 0;
 }
 
+/* Change the font size for the description */
 p {
   font-size: 14px;
   margin: 0;
 }
 
+/* Change the layout for smaller screens */
 @media (max-width: 767px) {
   li {
-    width: 100%;
+    width: 100%; /* Make each list item fill the full width of the screen */
   }
 }
