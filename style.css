@@ -36,6 +36,8 @@ img {
   width: 100%;
   height: auto;
   margin-bottom: 20px;
+/*   filter: grayscale(100%); */
+  filter: sepia(100%);  
 }
 
 /* Add a margin to the heading */
