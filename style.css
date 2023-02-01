@@ -29,6 +29,7 @@ a {
   overflow: hidden; /* Clip content that overflows the card */
   text-align: center; /* Center the text content vertically and horizontally */
   padding: 20px;
+  height: 350px; /* add a fixed height */  
 }
 
 /* Make the image fill the width of the card */
