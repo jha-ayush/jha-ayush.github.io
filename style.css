@@ -1,3 +1,8 @@
+/* Center title */
+title {
+  text-align: center;
+}
+
 /* Remove default styles for the unordered list */
 ul {
   list-style: none;
