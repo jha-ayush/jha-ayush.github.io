@@ -3,6 +3,12 @@ title {
   text-align: center;
 }
 
+/* Header styles */
+.header,h1{
+    text-align:center;
+    padding: 30px 0px;
+}
+
 /* Remove default styles for the unordered list */
 ul {
   list-style: none;
