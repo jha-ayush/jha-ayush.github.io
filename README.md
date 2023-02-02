@@ -2,6 +2,8 @@
 
 This repo showcases a variety of projects utilizing data science technologies and website design. The portfolio includes a mix of data analysis and visualization projects, machine learning models, and web design projects.
 
+Access the portfolio site [here](https://jha-ayush.github.io/)
+
 
 ### Table of Contents
 
