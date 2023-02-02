@@ -63,7 +63,7 @@ a {
   overflow: hidden; /* Clip content that overflows the card */
   text-align: center; /* Center the text content vertically and horizontally */
   padding: 20px;
-  height: 450px; /* add a fixed height */
+  height: 500px; /* add a fixed height */
   transition: all 0.3s ease-in-out; /* Add transition effect */  
 }
 

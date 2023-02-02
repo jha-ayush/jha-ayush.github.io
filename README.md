@@ -10,12 +10,12 @@ Access the portfolio site [here](https://jha-ayush.github.io/)
 
 **Data Science Projects**
 
-- Project 1: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
-- Project 2: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
-- Project 3: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+- Project Mango: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+- Project Guava: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+- Project Cherry: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
 
 
 **Web Design Projects**
 
-- Project 1: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
-- Project 2: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+- Project Enset: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+- Project Dates: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
