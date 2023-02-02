@@ -35,6 +35,12 @@
   max-height: auto;
 }
 
+.intro{
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;  
+    
+}
 
 /* Center title */
 title {
@@ -73,7 +79,7 @@ p {
 }
 
 /* Header styles */
-h2{
+h2,h3{
     text-align: center;
     padding: 20px 0px;
 }
