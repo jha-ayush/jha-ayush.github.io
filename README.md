@@ -6,14 +6,14 @@ This repo showcases a variety of projects utilizing data science technologies an
 ### Table of Contents
 
 
-Data Science Projects
+**Data Science Projects**
 
-Project 1: [Insert project title here]
-Project 2: [Insert project title here]
-Project 3: [Insert project title here]
+Project 1: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+Project 2: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+Project 3: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
 
 
-Web Design Projects
+**Web Design Projects**
 
-Project 1: [Insert project title here]
-Project 2: [Insert project title here]
+Project 1: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+Project 2: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
