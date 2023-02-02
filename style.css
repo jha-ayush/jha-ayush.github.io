@@ -68,7 +68,7 @@ img {
   max-width: 300px; /* set a maximum width */
   margin-bottom: 20px;
 /*   filter: grayscale(100%); */
-  filter: sepia(100%);  
+  filter: sepia(60%);  
 }
 
 /* Add a margin to the heading */
