@@ -42,10 +42,14 @@ title {
 }
 
 .profile_photo {
-    padding:40px 0px 10px;
-    text-align: center;
-    margin: 0 auto;
-    display: block;
+  width: 250px;    
+  height: auto;
+  border-radius: 50%;
+  overflow: hidden;
+  padding:50px 0px 10px;
+  text-align: center;
+  margin: 0 auto;
+  display: block;  
 }
 
 .profile_photo + p {
@@ -73,12 +77,6 @@ h2{
     text-align: center;
     padding: 20px 0px;
 }
-.profile_photo{
-    border-radius: 50%; 
-    width: 200px; 
-    height: 200px;
-}
-
 
 /* Remove default styles for the unordered list */
 ul {
