@@ -9,6 +9,11 @@ title {
   text-align: center;
 }
 
+profile_photo {
+    padding:30px 0px;
+    text-align: center;
+}
+
 /* Header styles */
 .header,h1{
     text-align:center;
