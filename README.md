@@ -17,5 +17,5 @@ Access the portfolio site [here](https://jha-ayush.github.io/)
 
 **Web Design Projects**
 
-- Project Enset: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+- Project Enset: [Kambata Development Network](https://kdn-eth.org/)
 - Project Dates: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
