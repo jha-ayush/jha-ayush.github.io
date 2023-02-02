@@ -63,15 +63,15 @@ p {
 
 /* Header styles */
 .header,h1{
-    text-align:center;
+    text-align: center;
     padding: 20px 0px;
     font-size: 2em;
 }
 
 /* Header styles */
 h2{
-    text-align:center;
-    padding: 30px 0px;
+    text-align: center;
+    padding: 20px 0px;
 }
 .profile_photo{
     border-radius: 50%; 
@@ -79,9 +79,6 @@ h2{
     height: 200px;
 }
 
-.links{
-    
-}
 
 /* Remove default styles for the unordered list */
 ul {
@@ -106,6 +103,10 @@ a {
   color: #1E1E1E;
 }
 
+.github_repo:hover{
+    text-decoration: underline;
+}
+
 /* Add styles for the project card */
 .card {
   background-color: #FAFAFA;
@@ -114,7 +115,7 @@ a {
   overflow: hidden; /* Clip content that overflows the card */
   text-align: center; /* Center the text content vertically and horizontally */
   padding: 20px;
-  height: 500px; /* add a fixed height */
+  height: 450px; /* add a fixed height */
   transition: all 0.3s ease-in-out; /* Add transition effect */  
 }
 
@@ -123,11 +124,14 @@ a {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* Increase shadow size */
 }
 
+.card + p {
+  padding: 10px 0px;
+}
 /* Make the image fill the width of the card */
 img {
   width: 100%;
   height: auto;
-  max-width: 400px; /* set a maximum width */
+  max-width: 450px; /* set a maximum width */
   margin-bottom: 20px;
 /*   filter: grayscale(100%); */
   filter: sepia(25%);  
