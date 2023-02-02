@@ -8,14 +8,13 @@ Access the portfolio site [here](https://jha-ayush.github.io/)
 ### Table of Contents
 
 
-**Data Science Projects**
+**Data app(s)**
 
 - Project Mango: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
 - Project Guava: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
-- Project Cherry: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
+- Project Avocado: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
 
 
-**Web Design Projects**
+**Website(s)**
 
 - Project Enset: [Kambata Development Network](https://kdn-eth.org/)
-- Project Dates: [Insert project title here](https://www.youtube.com/watch?v=ECOd877Urm4&ab_channel=CutestAnimals)
