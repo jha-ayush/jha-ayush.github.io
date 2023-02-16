@@ -33,6 +33,11 @@
 .logo {
   max-width: 50px;
   max-height: auto;
+  padding: 5px 0px;  
+}
+
+.email:hover{
+  text-decoration: underline;
 }
 
 .intro{
