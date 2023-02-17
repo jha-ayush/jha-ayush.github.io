@@ -38,6 +38,7 @@
 
 .email:hover{
   text-decoration: underline;
+  color: #0000EE;  
 }
 
 .intro{
@@ -114,6 +115,7 @@ a {
 
 .github_repo:hover{
     text-decoration: underline;
+    color: #0000EE;
 }
 
 /* Add styles for the project card */
