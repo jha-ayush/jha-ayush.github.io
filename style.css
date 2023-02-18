@@ -13,7 +13,7 @@
   right: 0;
   height:15px;   
   background-color: #E1E1E1;
-  padding: 20px 0px 5px 0px;
+  padding: 25px 0px 5px 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -34,6 +34,10 @@
   max-width: 50px;
   max-height: auto;
   padding: 5px 0px;  
+}
+
+.logo:hover {
+  transform: scale(1.2);
 }
 
 .email:hover{
