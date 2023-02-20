@@ -109,6 +109,7 @@ title {
 
 .profile_photo:hover {
   content: url('./assets/profile.jpg');
+  transition: all 0.3s ease-in-out;  
   width: 200px;    
   height: auto;
   border-radius: 0%;
