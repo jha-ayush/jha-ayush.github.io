@@ -95,7 +95,7 @@ title {
 .profile_photo {
   max-width: 200px;    
   height: auto;
-  border-radius: 0%;
+  border-radius: 20%;
   overflow: hidden;
   padding:40px 0px 20px;
   text-align: center;
